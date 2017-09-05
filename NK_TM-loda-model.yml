@@ -1,0 +1,22 @@
+---
+metadata:
+  schema_version: 0.2
+  name: "NK_TM"
+  generated:
+    inputs: [NK-Input1_159522794]
+    host: http://www.intowords.net
+    date: 2017-09-05T13:17:00.849Z
+    generation_time: 0.339s
+
+configuration:
+  model_entry: "scn-159522794"
+  cookie_policy: "forget"
+  follow_redirects: true
+
+requests:
+
+scenarios:
+  scn-159522794:
+    requestgraph:
+      entry: 
+      edges:
